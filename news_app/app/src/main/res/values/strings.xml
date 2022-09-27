@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android_final</string>
+    <string name="haber_bulunamadi">Haber bulunamadı</string>
+    <string name="search">Haberlerde Ara</string>
+    <string name="haberler">Haberler</string>
+</resources>
